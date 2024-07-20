@@ -1,2 +1,2 @@
 # tic-tac-toe-game
-tic tac toe - console game c#
+tic tac toe - c# console game 
